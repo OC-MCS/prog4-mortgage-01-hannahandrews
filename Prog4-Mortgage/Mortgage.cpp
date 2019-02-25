@@ -56,7 +56,7 @@ float Mortgage::getpayment()
 //parameters: none
 //return type: float
 //  total: This is the total amount the user will pay
-//        throughout their pay period.
+//        throughout their pay period. 
 //=========================================================
 float Mortgage::totalpaid()
 {
